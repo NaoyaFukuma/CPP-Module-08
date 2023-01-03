@@ -1,11 +1,11 @@
-NAME = Account
+NAME = Span
 
 
 CXX = c++
 CXXFLAGS = -std=c++98 -Wall -Wextra -Werror -MMD -MP
 CPPFLAGS = -Iincludes
 
-SRCS = tests.cpp Account.cpp
+SRCS = main.cpp Span.cpp
 VPATH = srcs
 
 OBJSDIR = objs
