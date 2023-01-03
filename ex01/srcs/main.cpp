@@ -6,7 +6,7 @@
 /*   By: nfukuma <nfukuma@student.42tokyo.jp>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/01/03 16:54:42 by nfukuma           #+#    #+#             */
-/*   Updated: 2023/01/03 21:47:57 by nfukuma          ###   ########.fr       */
+/*   Updated: 2023/01/03 21:56:11 by nfukuma          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -26,7 +26,10 @@ int	main()
 		sp.addNumber(11);
 		std::cout << sp.shortestSpan() << std::endl;
 		std::cout << sp.longestSpan() << std::endl;
+		std::vector<int> vec;
+		vec.push_back()
 		sp.addNumber(11);
+
 	}
 	catch(const std::exception& e)
 	{
