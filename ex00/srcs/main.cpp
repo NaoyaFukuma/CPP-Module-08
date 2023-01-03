@@ -6,11 +6,15 @@
 /*   By: nfukuma <nfukuma@student.42tokyo.jp>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/01/02 17:23:07 by nfukuma           #+#    #+#             */
-/*   Updated: 2023/01/02 23:34:32 by nfukuma          ###   ########.fr       */
+/*   Updated: 2023/01/03 14:07:08 by nfukuma          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "easyfind.hpp"
+#include <iostream>
+# include <deque>
+# include <list>
+# include <vector>
 
 int	main(void)
 {

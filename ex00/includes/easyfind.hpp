@@ -6,18 +6,15 @@
 /*   By: nfukuma <nfukuma@student.42tokyo.jp>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/01/02 17:13:52 by nfukuma           #+#    #+#             */
-/*   Updated: 2023/01/02 17:20:21 by nfukuma          ###   ########.fr       */
+/*   Updated: 2023/01/03 14:07:52 by nfukuma          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef EASYFIND_HPP
 # define EASYFIND_HPP
 
+// # include <iostream>
 # include <algorithm>
-# include <deque>
-# include <iostream>
-# include <list>
-# include <vector>
 
 class NotFoundException : public std::exception
 {
